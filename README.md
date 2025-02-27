@@ -4,6 +4,7 @@
 My visual argument, "The Perfect Woman," serves as both a form of social commentary and parody on the treatment of Black women in society. This piece plays on the "Strong Black Woman" archetype, as the magazine issue attempts to advise Black female readers on how they can become more respected by others in society. The use of Covergirl is meant to parody the methods of sales and persuasion the company's advertisements try to provoke, and seeks to suggest that a Black "Covergirl" is one that adheres to the standards and norms that society promotes. Below is a full breakdown of all the symbolism and subliminal messages in the piece.
 ![Breakdown of “The Perfect Woman”-1](https://github.com/user-attachments/assets/5b78968b-51c4-4530-b1d0-cf9380dfe9ba)
 
+
 ## Creative Process
 When the assignment was first introduced, I immediately had a lot of ideas about what I could do. Inspired by conversations I have had recently in my Dimensions of Racism and Sex, Race, and Popular Culture courses, along with just overall considering the current political climate, I thought that bringing awareness to how Black women are treated in society was an important topic to address. Before class had started, I had seen the quote, “Never forget, when excellence steps into the room mediocrity gets paranoid” by Hannah L. Drake, and initially wanted to do a piece that focused on uplifting Black women while criticizing society’s perceptions of them. This version would have highlighted many popular Black women (such as Michelle Obama, Beyoncé, and Simone Biles) that are mostly hated because of them being a powerful Black woman, whether that be because of implicit or explicit biases. However, early searches on Unsplash didn’t have the best options, so I then went for a different route. Here are some of the early sketches I had:
 ![Image](https://github.com/user-attachments/assets/35a97bd4-c1b3-4eab-a7c3-570f987e56aa)
@@ -51,8 +52,7 @@ When it came to adding the written traits, I played around with different ways o
   - “Intelligent” in Marion Bold 
   - “Natural” in Staatliches
         
-✅Credit all assets correctly, including attribution (creator names) where required
-- Asset list can be found in “visual-argument-project” folder
+✅Credit all assets correctly, including attribution (creator names) where required - Asset list can be found in “visual-argument-project” folder
     
 ✅Meet deadlines and requirements from the assignment page (see: reflection with screenshots and at least 500 words, project title in README)
 
@@ -61,11 +61,11 @@ When it came to adding the written traits, I played around with different ways o
 ✅Use at least 1 tool beyond select, move, and text
 
 ✅Use non-default commit messages that say what's changing (and maybe even why)
-	
+
+ 
 **Aspirational Inspirations**
 
-✅Organize your files through layer labeling, layer groups, repo structure
-- Layer groups for the tile, headline, leaves, flowers, butterflies, face pieces, and headline
+✅Organize your files through layer labeling, layer groups, repo structure - Layer groups for the tile, headline, leaves, flowers, butterflies, face pieces, and headline
 
 ✅Use multiple design strategies in ways that compliment each other (whether to reinforce a single shared focus or to add nuance / surprise down the hierarchy)
 
@@ -79,11 +79,9 @@ When it came to adding the written traits, I played around with different ways o
 | Focal Points | Areas of interests, stand out after the dominant element | Eyes and lips, are made to be focal points because of their difference in shape, size, and color | 
 | Fonts | Evoke emotion and have personality | Each of the traits written in a different font to illustrate the word’s connotative meaning | 
 
-✅Be bright and bold to make your work pop and draw the eye
-- Bright colors used for the elements in the hair
+✅Be bright and bold to make your work pop and draw the eye - Bright colors used for the elements in the hair
 
-✅Use more than 3 distinct overlapping layers
-- 53 layers (many of the pieces in the hair are their own layers, along with the text groupings)
+✅Use more than 3 distinct overlapping layers - 53 layers (many of the pieces in the hair are their own layers, along with the text groupings)
 
 ✅Use more than 3 tools beyond select, move, and text that are new to you
 *Color Curves*: Used to brighten the image of the woman
@@ -107,5 +105,25 @@ When it came to adding the written traits, I played around with different ways o
 Mia was able to give a very thoughtful and thorough analysis of my piece: 
  <img width="908" alt="mia's analysis" src="https://github.com/user-attachments/assets/619e89b9-3f65-4d2d-9fae-2e0505e9e9ec" />
 
+
 ## Peer Feedback
+My peers had predominantly positive responses to my full draft. A common theme among their suggestions was to find more ways to make certain elements pop. 
+
+<img width="908" alt="mia's feedback" src="https://github.com/user-attachments/assets/d6423503-74a5-4498-9f30-7b758a54b03e" />
+To incorporate Mia’s suggestion, I added a drop shadow to the elements in the woman’s hair on the right is a before view and on the left is after.
+<img width="410" alt="shadowing for peer review" src="https://github.com/user-attachments/assets/1c9ae7e2-f0a4-4a1d-82e5-33c2040184e7" />
+
+For Morgan’s suggestion, I played around with the lens blur for the woman’s shadow to make it look more realistic and better blended. The first picture is before and the second picture is after these changes.
+[Original](https://github.com/raeganbest/visual-argument-2025spring/blob/78550cf6701e508494333bf73e982d2a3aca42b0/visual-argument-project/visual-argument.jpeg)
+<img width="1436" alt="lens blur for peer review" src="https://github.com/user-attachments/assets/58a3c027-781d-4182-8a4c-aa2760cc0766" />
+
+Additionally she suggested making “The Perfect Woman” pop. Hannah also had a similar suggestion, so I added a shadow on “Perfect” to make it stand out more, along with making it the only word in the phrase to be in white. I also italicized the word. 
+Before
+<img width="258" alt="words before review" src="https://github.com/user-attachments/assets/c763df77-ddf1-4f7e-b9cb-efa6580390a9" />
+
+After
+<img width="172" alt="text changes for peer review" src="https://github.com/user-attachments/assets/8f8b0eab-d62a-4127-ac9a-25990f1e4878" />
+
+
 ## Conclusions
+Overall, I am very happy with the way my piece turned out. Over the years I have had a little practice with Adobe Photoshop, but I am glad this assignment gave me the opportunity to properly play around with these types of applications. 
