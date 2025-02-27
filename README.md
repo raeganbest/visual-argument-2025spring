@@ -132,5 +132,5 @@ After
 <img width="172" alt="text changes for peer review" src="https://github.com/user-attachments/assets/8f8b0eab-d62a-4127-ac9a-25990f1e4878" />
 
 
-## Conclusions
+## Conclusion
 Overall, I am very happy with the way my piece turned out. Over the years I have had a little practice with Adobe Photoshop, but I am glad this assignment gave me the opportunity to properly play around with these types of applications. While GIMP is not the most advanced application, I was able to get used to it much easier than I was with Audacity. I would honestly love to do another visual argument to add to my final portfolio.
