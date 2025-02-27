@@ -11,7 +11,7 @@ When the assignment was first introduced, I immediately had a lot of ideas about
 ![Image](https://github.com/user-attachments/assets/7e82b67e-f571-4a3e-af73-2aebe688a8e2)
 
 
-One thing I was really set on doing was incorporating a floral background in my piece, using the works of Kehinde Wiley as inspiration. The very first draft I did was looking reminiscent of their pieces, but I realized it would be very difficult to add words in, which I felt was the main basis for properly forming my argument, with such a busy background. 
+One thing I was really set on doing was incorporating a floral background in my piece, using the works of Kehinde Wiley as inspiration. The very first draft I did was looking reminiscent of their pieces, but I realized it would be very difficult to add words in (which I felt was the main basis for properly forming my argument) with such a busy background. 
 <img width="1166" alt="visual argment first draft" src="https://github.com/user-attachments/assets/dbd14828-9f44-442a-92e9-d9f8c87d3254" />
 
 
@@ -20,7 +20,7 @@ I then had this idea for making a magazine cover, knowing that they often portra
 [Black Woman](https://www.pinterest.com/pin/345299496443943356/), [Vogue](https://www.pinterest.com/pin/470978073537348966/), [Cosmetology and Plastic Surgery Illustration](https://stock.adobe.com/it/images/cosmetology-and-plastic-surgery-a-modern-poster-in-the-style-of-pop-art/187136467), [Plastic Surgery Collage](https://depositphotos.com/photo/contemporary-art-collage-conceptual-design-cosmetological-plastic-surgery-hyaluronic-acid-588492430.html), ["The New Muse"](https://in.pinterest.com/pin/13721973857807519/)
 
 
-I used Unsplash to source all the photos for my piece, and then spent the early days using foreground and scissor select to remove the background of the butterfly, flowers, leaves, and woman photos. For the pieces used on the face, I simply just cropped them down to a smaller size, because I wanted them to especially look displaced and wonky. Because this is my first time using GIMP, I look at a lot of different tutorials to help me out. 
+I used Unsplash to source all the photos for my piece, and then spent the early days using foreground and scissor select to remove the background of the butterfly, flowers, leaves, and woman photos. For the pieces used on the face, I simply just cropped them down to a smaller size, because I wanted them to especially look displaced and wonky. Because this was my first time using GIMP, I looked at a lot of different tutorials to help me out. 
 <img width="1392" alt="visual argument progress (2:18)" src="https://github.com/user-attachments/assets/7d0e1e5f-6867-4063-ae2b-dd05717e30db" />
 <img width="1438" alt="visual argument (2:19)" src="https://github.com/user-attachments/assets/d0024d9a-2705-40db-854a-71180b5dc94e" />
 
