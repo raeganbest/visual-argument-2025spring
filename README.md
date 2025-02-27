@@ -31,7 +31,6 @@ After the main focus of the piece was put together (which my first version someh
 
 
 When it came to adding the written traits, I played around with different ways of doing it. I at one point had them added in a more scrapbook/magazine collage way like the other elements, but they didn’t fit correctly in the hair. That’s when I decided to make them the focal point of the magazine’s headline. To get the different fonts, I downloaded them from Google fonts and assigned them based on association. For the complete draft submission, I made sure all the words and layers of the piece were arranged in a way I found most effective. My peers only left minimal changes and suggestions, but after incorporating their advice and adding other comments from Professor Miller, I was able to submit my final drafts on 2/26. 
-![visual-argument final draft](https://github.com/user-attachments/assets/0a976c6f-ec1e-4741-8bb3-25808d77b73c)
 
 
 ## Generative Contraints
@@ -39,8 +38,7 @@ When it came to adding the written traits, I played around with different ways o
 
 ✅Use arrangement, size, color, visual rhythm, and/or contrast to focus and guide viewers' attention
 
-✅Have a clear message or intervention that you can articulate in your reflection
-- Dedicated section in my reflection that analyzes the piece and explains critical elements that may not be caught at first glance 
+✅Have a clear message or intervention that you can articulate in your reflection: Dedicated section in my reflection that analyzes the piece and explains critical elements that may not be caught at first glance 
 
 ✅If including words, choose a font that matches the style/tone of your piece
 - Title and majority of headline written in Marcellus to resemble the actual Covergirl font
@@ -72,18 +70,19 @@ When it came to adding the written traits, I played around with different ways o
 ✅Refer to assigned readings in explaining your design choices, e.g. font pairings, hierarchical levels, etc
 | Principle | Purpose | Application | 
 | ------------- | ------------- | -------------|
-| Proximity |  Elements that are closer together are more related | Grouping of flowers, leaves, and butterflies together, Group of traits together; Using white space to strengthen groupings - Space between groups of elements in hair |
+| Proximity |  Elements that are closer together are more related | Grouping of flowers, leaves, and butterflies together; Group of traits together; Using white space to strengthen groupings - Space between groups of elements in hair |
 | Similarity  | Elements that are similar are perceived to be more related | Similarity through color - “Cover” and “Perfect” being white to draw a connection between these words and whiteness |
-| Figure ground | The perception of elements as either objects of focus of the background; distinguishable | Contrast - Desaturated background to make the woman pop out and draw in the viewer’s attention, Size - woman is large on the page to make her be the focus, rather than the background | 
+| Figure ground | The perception of elements as either objects of focus or the background; distinguishable | Contrast - Desaturated background to make the woman pop out and draw in the viewer’s attention; Size - woman is large on the page to make her be the focus, rather than the background | 
 | Dominance | Attracts the eye and gets noticed first | The woman is the largest element in the piece | 
-| Focal Points | Areas of interests, stand out after the dominant element | Eyes and lips, are made to be focal points because of their difference in shape, size, and color | 
+| Focal Points | Areas of interests, stand out after the dominant element | Eyes and lips are made to be focal points because of their difference in shape, size, and color | 
 | Fonts | Evoke emotion and have personality | Each of the traits written in a different font to illustrate the word’s connotative meaning | 
 
-✅Be bright and bold to make your work pop and draw the eye - Bright colors used for the elements in the hair
+✅Be bright and bold to make your work pop and draw the eye: Bright colors used for the elements in the hair
 
-✅Use more than 3 distinct overlapping layers - 53 layers (many of the pieces in the hair are their own layers, along with the text groupings)
+✅Use more than 3 distinct overlapping layers: 53 layers (many of the pieces in the hair are their own layers, along with the text groupings)
 
 ✅Use more than 3 tools beyond select, move, and text that are new to you
+
 *Color Curves*: Used to brighten the image of the woman
 <img width="1428" alt="color curves tool" src="https://github.com/user-attachments/assets/e186f22b-944a-46f2-8257-7af79501b227" />
 
@@ -102,6 +101,7 @@ When it came to adding the written traits, I played around with different ways o
 <img width="1407" alt="drop shadow tool" src="https://github.com/user-attachments/assets/35950060-2047-477b-ae76-fce25605d7b4" />
 
 ✅Demonstrate through feedback that someone looking at your piece can accurately articulate your message/argument
+
 Mia was able to give a very thoughtful and thorough analysis of my piece: 
  <img width="908" alt="mia's analysis" src="https://github.com/user-attachments/assets/619e89b9-3f65-4d2d-9fae-2e0505e9e9ec" />
 
@@ -110,20 +110,27 @@ Mia was able to give a very thoughtful and thorough analysis of my piece:
 My peers had predominantly positive responses to my full draft. A common theme among their suggestions was to find more ways to make certain elements pop. 
 
 <img width="908" alt="mia's feedback" src="https://github.com/user-attachments/assets/d6423503-74a5-4498-9f30-7b758a54b03e" />
-To incorporate Mia’s suggestion, I added a drop shadow to the elements in the woman’s hair on the right is a before view and on the left is after.
+
+To incorporate Mia’s suggestion, I added a drop shadow to the elements in the woman’s hair. On the right is a before view and on the left is after.
+
+
 <img width="410" alt="shadowing for peer review" src="https://github.com/user-attachments/assets/1c9ae7e2-f0a4-4a1d-82e5-33c2040184e7" />
 
 For Morgan’s suggestion, I played around with the lens blur for the woman’s shadow to make it look more realistic and better blended. The first picture is before and the second picture is after these changes.
+
 [Original](https://github.com/raeganbest/visual-argument-2025spring/blob/78550cf6701e508494333bf73e982d2a3aca42b0/visual-argument-project/visual-argument.jpeg)
+
 <img width="1436" alt="lens blur for peer review" src="https://github.com/user-attachments/assets/58a3c027-781d-4182-8a4c-aa2760cc0766" />
 
 Additionally she suggested making “The Perfect Woman” pop. Hannah also had a similar suggestion, so I added a shadow on “Perfect” to make it stand out more, along with making it the only word in the phrase to be in white. I also italicized the word. 
+
 Before
 <img width="258" alt="words before review" src="https://github.com/user-attachments/assets/c763df77-ddf1-4f7e-b9cb-efa6580390a9" />
+
 
 After
 <img width="172" alt="text changes for peer review" src="https://github.com/user-attachments/assets/8f8b0eab-d62a-4127-ac9a-25990f1e4878" />
 
 
 ## Conclusions
-Overall, I am very happy with the way my piece turned out. Over the years I have had a little practice with Adobe Photoshop, but I am glad this assignment gave me the opportunity to properly play around with these types of applications. 
+Overall, I am very happy with the way my piece turned out. Over the years I have had a little practice with Adobe Photoshop, but I am glad this assignment gave me the opportunity to properly play around with these types of applications. While GIMP is not the most advanced application, I was able to get used to it much easier than I was with Audacity. I would honestly love to do another visual argument to add to my final portfolio.
